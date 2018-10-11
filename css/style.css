@@ -4,6 +4,7 @@ html {
 
 body {
     height: 100%;
+    background-color:black;
     
 }
 a {
@@ -16,4 +17,14 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+.header{
+    display:flex;
+    justify-content:center;
+    Color:#D4AF37;
+}
+#frontimg{
+    width:500px;
+    display:flex;
+    justify-content:center;
 }
