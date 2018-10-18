@@ -23,8 +23,13 @@ a {
     justify-content:center;
     Color:#D4AF37;
 }
-#frontimg{
+#startImg{
     width:500px;
     display:flex;
     justify-content:center;
+}
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    width:100%;
 }
