@@ -4,7 +4,8 @@ html {
 
 body {
     height: 100%;
-    background-color:black;
+    width:100%;
+    background-image:url("https://i.pinimg.com/originals/36/11/bf/3611bf44c19cf5617cc869fa19143d14.jpg");
     
 }
 a {
@@ -27,9 +28,13 @@ a {
     width:500px;
     display:flex;
     justify-content:center;
+    margin:0 auto;
 }
 .navbar{
     display:flex;
-    justify-content:space-between;
+    justify-content:space-around;
     width:100%;
+    font-size:30px;
+    background-color:#D4AF37;
+    
 }
