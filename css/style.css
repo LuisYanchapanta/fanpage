@@ -2,7 +2,7 @@ html {
     height: 100%;
 }
 
-#begin {
+#homeBackground {
     height: 10%;
     width:100%;
     background-image:url("https://i.pinimg.com/originals/36/11/bf/3611bf44c19cf5617cc869fa19143d14.jpg");
@@ -48,7 +48,7 @@ a {
 }
 
 #Gallery{
-    background-color:black
+   background-color:black;
 }
 
 .thumbnail-image{
